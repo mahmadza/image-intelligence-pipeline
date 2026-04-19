@@ -1,4 +1,4 @@
-# 📂 Sturdy Barnacle
+# 📂 Image Intelligence Pipeline
 
 **A Modern Image Processing & Album Management System**
 
