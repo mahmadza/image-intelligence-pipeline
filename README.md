@@ -2,7 +2,7 @@
 
 **A Modern Image Processing & Album Management System**
 
-Sturdy Barnacle is an **end-to-end image processing pipeline** that extracts metadata, captions, objects, embeddings, and text from images, stores them in **PostgreSQL with `pgvector`**, and clusters images into **intelligent albums** using **t-SNE & HDBSCAN**.
+Image Intelligence Pipeline is an **end-to-end image processing pipeline** that extracts metadata, captions, objects, embeddings, and text from images, stores them in **PostgreSQL with `pgvector`**, and clusters images into **intelligent albums** using **t-SNE & HDBSCAN**.
 It supports **Detectron2, BLIP-2, CLIP, PaddleOCR**, and **PostgreSQL** for metadata storage, with robust similarity search and album summarization capabilities.
 
 ---
